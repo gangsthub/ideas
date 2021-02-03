@@ -4,7 +4,6 @@ Some publicly shared app ideas
 # apps
 
 - [ ] Make https://templates.netlify.com/ dynamic and filterable.
-   - Possibly under a [jamstack.page domain I have on sale](https://indiemaker.co/listings/jamstackpage) ([contact me](https://graficos.net/contact)).
 
 - [ ] Fourth Dimension
    - 3D based timeline, allowing you to travel in the 4th Dimension. Useful for representing historic events, or any event.
