@@ -17,11 +17,7 @@ Some publicly shared app ideas
 
 - [ ] Crops calendar, and seasonal vegetables. Location-based. I'm sure there are similar apps out there. Ability to create your plants calendar.
 
-- [ ] "Plantagotchi": A Tamagotchi, but it's a plant. Real-time virtual plant caring on your device. At least, if this one dies you won't be so sad.
-
 
 # activities
 
 - [ ] Create a animated series videos: "muppettps" (or "httpets"), SVG animated videos explaining internet-related and web developemtn stuff.
-
-- [ ] become an NFT art dealer, or create a greener NFT and then become a big collector.
