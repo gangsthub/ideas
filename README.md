@@ -17,6 +17,7 @@ Some publicly shared app ideas
 
 - [ ] Crops calendar, and seasonal vegetables. Location-based. I'm sure there are similar apps out there. Ability to create your plants calendar.
 
+- [ ] "Can I Mix", like caniuse but comparing 2 or more features. It auto-highlights the intersection between them.
 
 # activities
 
