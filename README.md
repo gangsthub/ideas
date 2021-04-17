@@ -19,6 +19,8 @@ Some publicly shared app ideas
 
 - [ ] "Can I Mix", like caniuse but comparing 2 or more features. It auto-highlights the intersection between them.
 
+- [ ] PipeApp. Actually I got the idea from [Surma](https://youtu.be/lNOP5dcLZF4). An app that acts like the *nix pipe, but also like functional pipes. Using the Share Target API, accept any type of data and return any type of data. The trick is to make it customizable what it does in between. There could also be plugins, like: accept markdown file and return html. Or accept a URL and return a screenshot of the page... The executed code runs in an isolated scope.
+
 # activities
 
 - [ ] Create a animated series videos: "muppettps" (or "httpets"), SVG animated videos explaining internet-related and web developemtn stuff.
