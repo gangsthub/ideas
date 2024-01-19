@@ -23,6 +23,8 @@
 
 - [ ] PipeApp. Actually I got the idea from [Surma](https://youtu.be/lNOP5dcLZF4). An app that acts like the *nix pipe, but also like functional pipes. Using the Share Target API, accept any type of data and return any type of data. The trick is to make it customizable what it does in between. There could also be plugins, like: accept markdown file and return html. Or accept a URL and return a screenshot of the page... The executed code runs in an isolated scope for security reasons.
 
+- [ ] ChronoSport. An app with configurable chronometers for working out. I usually miss the ability to set milestones in a timer so I get notified at specific times.
+
 ## APIs
 
 - [ ] Odds api. `/api/1/10/-3`: translated into `1*10^-3` things that you have those odds to happen to you.
