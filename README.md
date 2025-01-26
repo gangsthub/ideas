@@ -18,7 +18,8 @@
 
 - [ ] Crops calendar, and seasonal vegetables. Location-based. I'm sure there are similar apps out there. Ability to create your own crops and their seasons.
 
-- [ ] ChronoSport. An app with configurable chronometers for working out. I usually miss the ability to set milestones in a timer so I get notified at specific times.
+- [ ] ~ChronoSport. An app with configurable chronometers for working out. I usually miss the ability to set milestones in a timer so I get notified at specific times.~
+   - Found a respetable app that does mostly what I wanted! https://secuso.aifb.kit.edu/Intervalltimer_und_Zirkeltraining.php
 
 ## APIs
 
